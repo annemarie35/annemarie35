@@ -11,7 +11,7 @@
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=octocat&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annemarie35&layout=donut&theme=graywhite)
+![Top Languages](https://ghstats.dev/api/langs?username=octocat&theme=radical)
 
 
 
