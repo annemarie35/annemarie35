@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I was a dj in a past professional life
 
 
-[![Anne-Marie Esteves GitHub stats](https://github-readme-stats.vercel.app/api?username=annemarie35&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite)](https://github.com/annemarie35/github-readme-stats)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=octocat&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annemarie35&layout=donut&theme=graywhite)
 
