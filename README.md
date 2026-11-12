@@ -9,9 +9,9 @@
 - ⚡ Fun fact: I was a dj in a past professional life
 
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=octocat&theme=radical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=annemarie35&theme=radical)
 
-![Top Languages](https://ghstats.dev/api/langs?username=octocat&theme=radical)
+![Top Languages](https://ghstats.dev/api/langs?username=annemarie35&theme=radical)
 
 
 
